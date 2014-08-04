@@ -9,6 +9,10 @@ Papers of Per Martin Löf. Please inform me of others. They are generally a nigh
 
 ["An Intuitionisitic Theory of Types"](An-Intuitionisitic-Theory-of-Types-1972.pdf), 1972 
 
+["An Intuitionistic Theory of Types: Predicative Part"](An-Intuitionisitic-Theory-of-Types:-Predicative-Part.pdf), 1975
+
+["About Models for Intuitionistic Type Theories and the notion of Definitional Equality"](About-Models-for-Intuitionistic-Type-Theories-and-the-notion-of-Definitional-Equality-1975.pdf), 1975
+
 [A note to Michael Dummett](Note-to-Michael-Dummett-1976.pdf), 1976. 
 
 [*Intuitionistic Type Theory* (Bibliopolis Book)](Bibliopolis-Book-1980.pdf), 1980 
