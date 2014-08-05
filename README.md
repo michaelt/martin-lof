@@ -17,7 +17,7 @@ Hauptsatz for the intuitionistic theory of iterated inductive definitions, 1971
 
 ["An Intuitionisitic Theory of Types"](An-Intuitionisitic-Theory-of-Types-1972.pdf), 1972
 
-["An Intuitionistic Theory of Types: Predicative Part"](An-Intuitionisitic-Theory-of-Types:-Predicative-Part.pdf), 1975
+["An Intuitionistic Theory of Types: Predicative Part"](An-Intuitionisitic-Theory-of-Types-Predicative-Part.pdf), 1975
 
 ["About Models for Intuitionistic Type Theories and the notion of Definitional Equality"](About-Models-for-Intuitionistic-Type-Theories-and-the-notion-of-Definitional-Equality-1975.pdf), 1975
 
