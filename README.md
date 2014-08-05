@@ -8,7 +8,7 @@ Papers of Per Martin Löf. Please inform me of others. They are generally a nigh
 |[Definition of Random Sequences](pdfs/Definition-of-Random-Sequences-1966.pdf?raw=true)| 1966 |
 |Notes on constructive mathematics (Almqvist & Wiksell)| 1970 |
 |A theory of types (Preprint, Stockholm University)| 1971 |
-|Hauptsatz for the intuitionistic theory of iterated inductive definitions| 1971 |
+|[Hauptsatz for the intuitionistic theory of iterated inductive definitions](Hauptsatz-for-the-intuitionistic-theory-of-iterated-inductive-definitions-1971.pdf)| 1971 |
 |[Infinite terms and a system of natural deduction](pdfs/Infinite-terms-and-a-system-of-natural-deduction-1972.pdf?raw=true)| 1972 |
 |[An Intuitionisitic Theory of Types](pdfs/An-Intuitionisitic-Theory-of-Types-1972.pdf?raw=true)| 1972 |
 |[An Intuitionistic Theory of Types: Predicative Part](pdfs/An-Intuitionisitic-Theory-of-Types-Predicative-Part-1975.pdf?raw=true)| 1975 |
