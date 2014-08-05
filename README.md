@@ -13,6 +13,8 @@ A theory of types (Preprint, Stockholm University), 1971
 
 Hauptsatz for the intuitionistic theory of iterated inductive definitions, 1971
 
+[Infinite terms and a system of natural deduction](Infinite-terms-and-a-system-of-natural-deduction-1972.pdf), 1972
+
 ["An Intuitionisitic Theory of Types"](An-Intuitionisitic-Theory-of-Types-1972.pdf), 1972
 
 ["An Intuitionistic Theory of Types: Predicative Part"](An-Intuitionisitic-Theory-of-Types:-Predicative-Part.pdf), 1975
