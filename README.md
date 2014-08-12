@@ -28,7 +28,7 @@ a nightmare to lay hold of.
 |[Notes on The Domain Interpretation of Type Theory](pdfs/Notes-on-The-Domain-Interpretation-of-Type-Theory-1983.pdf?raw=true)| 1983 |
 |[The logic of Judgements](pdfs/The-logic-of-judgements-1987.pdf?raw=true) | 1987 |
 |[Truth of a Proposition, Evidence of a Judgment, Validity of a Proof](pdfs/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf?raw=true)| 1987 |
-|Philosophical implications of type theory (Lectures given at the Facoltá de Lettere e Filosofia, Universitá degli Studi di Firenze, Florence, March 15th - May 15th, Privately circulated notes)| 1987 |
+|Philosophical implications of type theory (Lectures given at the Facoltà di Lettere e Filosofia, Universitá degli Studi di Firenze, Florence, March 15th - May 15th, Privately circulated notes)| 1987 |
 |[Mathematics of Infinity](pdfs/Mathematics-of-Infinity.pdf?raw=true)| 1990 |
 |[A path from logic to metaphysics](pdfs/A-path-from-logic-to-metaphysics-1990.pdf?raw=true) | 1990 |
 |[Substitution calculus](pdfs/Substitution-calculus-1992.pdf?raw=true) (Notes from a lecture given in Göteborg)| 1992 |
