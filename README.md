@@ -22,7 +22,7 @@ a nightmare to lay hold of.
 |[A note to Michael Dummett](pdfs/Note-to-Michael-Dummett-1976.pdf?raw=true)| 1976 |
 |[Exact tests, confidence regions and estimates](pdfs/Exact-tests-confidence-regions-and-estimates-1977.pdf?raw=true) | 1977 |
 |[Constructive mathematics and computer programming](pdfs/Constructive-mathematics-and-computer-programming-1979.pdf?raw=true) (Tech report)| 1979 |
-|[Intuitionistic Type Theory (Bibliopolis Book)](pdfs/Bibliopolis-Book-1980.pdf?raw=true) [(Re-typeset version)](pdfs/Bibliopolis-Book-retypeset-1980.pdf?raw=true| 1980 |
+|[Intuitionistic Type Theory (Bibliopolis Book)](pdfs/Bibliopolis-Book-1980.pdf?raw=true) [(Re-typeset and searchable version)](pdfs/Bibliopolis-Book-retypeset-1980.pdf?raw=true)| 1980 |
 |[Constructive mathematics and computer programming](pdfs/Constructive-mathematics-and-computer-programming-1982.pdf?raw=true)| 1982 |
 |[On the Meanings of the Logical Constants and the Justification of Logical Laws](pdfs/Meanings-of-the-Logical-Constants-1983.pdf?raw=true)| 1983 |
 |[Notes on The Domain Interpretation of Type Theory](pdfs/Notes-on-The-Domain-Interpretation-of-Type-Theory-1983.pdf?raw=true)| 1983 |
