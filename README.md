@@ -11,11 +11,11 @@ a nightmare to lay hold of.
 |Notes on constructive mathematics (Almqvist & Wiksell)| 1970 |
 |A theory of types (Preprint, Stockholm University)| 1971 |
 |[Hauptsatz for the intuitionistic theory of iterated inductive definitions](pdfs/Hauptsatz-for-the-intuitionistic-theory-of-iterated-inductive-definitions-1971.pdf?raw=true)| 1971 |
-|[Complexity Oscillations in Infinite Binary Sequences](pdfs/Complexity-Oscillations-in-Infinite-Binary-Sequences-1971.pdf) | 1971 |
+|[Complexity Oscillations in Infinite Binary Sequences](pdfs/Complexity-Oscillations-in-Infinite-Binary-Sequences-1971.pdf?raw=true) | 1971 |
 |[Infinite terms and a system of natural deduction](pdfs/Infinite-terms-and-a-system-of-natural-deduction-1972.pdf?raw=true)| 1972 |
 |[An Intuitionisitic Theory of Types](pdfs/An-Intuitionisitic-Theory-of-Types-1972.pdf?raw=true)| 1972 |
-|[The Notion of Redundancy and Its Use as a Quantitative Measure of the Discrepancy between a Statistical Hypothesis and a Set of Observational Data](pdfs/The-Notion-of-Redundancy.pdf?raw=true) | 1974 |
-|[An Intuitionistic Theory of Types: Predicative Part (Proceedings of the logic colloquium Bristol, July 1973)](pdfs/An-Intuitionisitic-Theory-of-Types-Predicative-Part-1975.pdf?raw=true)| 1975 |
+|[The Notion of Redundancy and Its Use as a Quantitative Measure of the Discrepancy between a Statistical Hypothesis and a Set of Observational Data](pdfs/The-Notion-of-Redundancy-1974.pdf?raw=true) | 1974 |
+|[An Intuitionistic Theory of Types: Predicative Part](pdfs/An-Intuitionisitic-Theory-of-Types-Predicative-Part-1975.pdf?raw=true) (Proceedings of the logic colloquium Bristol, July 1973) | 1975 |
 |[About Models for Intuitionistic Type Theories and the notion of Definitional Equality](pdfs/About-Models-for-Intuitionistic-Type-Theories-and-the-notion-of-Definitional-Equality-1975.pdf?raw=true)| 1975 |
 |[Syntax and semantics of the language of primitive recursive functions](pdfs/Syntax-and-semantics-of-the-language-of-primitive-recursive-functions-1975.pdf?raw=true) (Preprint written with Peter Hancock)| 1975 |
 |[Reply to Sverdrups Polemical Article Tests without Power](pdfs/Reply-to-Sverdrups-Polemical-Article-Tests-without-Power-1975.pdf?raw=true)
@@ -35,6 +35,6 @@ a nightmare to lay hold of.
 |[Analytic and Synthetic Judgements in Type Theory](pdfs/Martin-Lof-Analytic-and-Synthetic-Judgements-in-Type-Theory.pdf?raw=true)| 1994 |
 |[Truth and Knowability: On the Principles C and K of Michael Dummett](pdfs/Truth-and-Knowability-On-the-Principles-C-and-K-of-Michael-Dummett-1998.pdf?raw=true)| 1998 |
 |[Hilbert Brouwer Controversy Resolved?](pdfs/Hilbert-Brouwer-Controversy-Resolved-2008.pdf?raw=true)| 2008 |
-|[Are the objects of propositional attitudes propositions in the sense of propositional and predicate logic](pdfs/Are-the-objects-of-propositional-attitudes-propositions-in-the-sense-of-propositional-and-predicate-logic-2003.pdf) | 2003 |
+|[Are the objects of propositional attitudes propositions in the sense of propositional and predicate logic](pdfs/Are-the-objects-of-propositional-attitudes-propositions-in-the-sense-of-propositional-and-predicate-logic-2003.pdf?raw=true) | 2003 |
 |[One hundred years of Zermelo's axiom of choice. What was the problem with it?](pdfs/One-hundred-years-of-Zermelo-s-axiom-of-choice-what-was-the-problem-with-it-2009.pdf?raw=true)| 2009 |
 |[Verificationism Then and Now](pdfs/Martin-Lof-Verificationism-Then-and-Now-2013.pdf?raw=true)| 2013 |
