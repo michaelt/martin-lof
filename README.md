@@ -36,5 +36,6 @@ a nightmare to lay hold of.
 |[Truth and Knowability: On the Principles C and K of Michael Dummett](pdfs/Truth-and-Knowability-On-the-Principles-C-and-K-of-Michael-Dummett-1998.pdf?raw=true)| 1998 |
 |[Hilbert Brouwer Controversy Resolved?](pdfs/Hilbert-Brouwer-Controversy-Resolved-2008.pdf?raw=true)| 2008 |
 |[Are the objects of propositional attitudes propositions in the sense of propositional and predicate logic?](pdfs/Are-the-objects-of-propositional-attitudes-propositions-in-the-sense-of-propositional-and-predicate-logic-2003.pdf?raw=true) | 2003 |
+|Normalization by Evaluation and by the Method of Computability (Talk at JAIST, Kanazawa) | 2004 |
 |[One hundred years of Zermelo's axiom of choice. What was the problem with it?](pdfs/One-hundred-years-of-Zermelo-s-axiom-of-choice-what-was-the-problem-with-it-2009.pdf?raw=true)| 2009 |
 |[Verificationism Then and Now](pdfs/Martin-Lof-Verificationism-Then-and-Now-2013.pdf?raw=true)| 2013 |
