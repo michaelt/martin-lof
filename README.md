@@ -13,9 +13,9 @@ a nightmare to lay hold of.
 |[Hauptsatz for the intuitionistic theory of iterated inductive definitions](pdfs/Hauptsatz-for-the-intuitionistic-theory-of-iterated-inductive-definitions-1971.pdf?raw=true)| 1971 |
 |[Complexity Oscillations in Infinite Binary Sequences](pdfs/Complexity-Oscillations-in-Infinite-Binary-Sequences-1971.pdf?raw=true) | 1971 |
 |[Infinite terms and a system of natural deduction](pdfs/Infinite-terms-and-a-system-of-natural-deduction-1972.pdf?raw=true)| 1972 |
-|[An Intuitionistic Theory of Types](pdfs/An-Intuitionisitic-Theory-of-Types-1972.pdf?raw=true)| 1972 |
+|[An Intuitionistic Theory of Types](pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf?raw=true)| 1972 |
 |[The Notion of Redundancy and Its Use as a Quantitative Measure of the Discrepancy between a Statistical Hypothesis and a Set of Observational Data](pdfs/The-Notion-of-Redundancy-1974.pdf?raw=true) | 1974 |
-|[An Intuitionistic Theory of Types: Predicative Part](pdfs/An-Intuitionisitic-Theory-of-Types-Predicative-Part-1975.pdf?raw=true) (Proceedings of the logic colloquium Bristol, July 1973) | 1975 |
+|[An Intuitionistic Theory of Types: Predicative Part](pdfs/An-Intuitionistic-Theory-of-Types-Predicative-Part-1975.pdf?raw=true) (Proceedings of the logic colloquium Bristol, July 1973) | 1975 |
 |[About Models for Intuitionistic Type Theories and the notion of Definitional Equality](pdfs/About-Models-for-Intuitionistic-Type-Theories-and-the-notion-of-Definitional-Equality-1975.pdf?raw=true)| 1975 |
 |[Syntax and semantics of the language of primitive recursive functions](pdfs/Syntax-and-semantics-of-the-language-of-primitive-recursive-functions-1975.pdf?raw=true) (Preprint written with Peter Hancock)| 1975 |
 |[Reply to Sverdrups Polemical Article Tests without Power](pdfs/Reply-to-Sverdrups-Polemical-Article-Tests-without-Power-1975.pdf?raw=true)
