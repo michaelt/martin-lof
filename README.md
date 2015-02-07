@@ -8,6 +8,7 @@ a nightmare to lay hold of.
 |:------|:----:|
 |[Definition of Random Sequences](pdfs/Definition-of-Random-Sequences-1966.pdf?raw=true)| 1966 |
 |[Algorithms and randomness](pdfs/Algorithms-and-randomness-1969.pdf?raw=true) | 1969 |
+|[Informal Notes on Foundations](pdfs/Informal Notes on Foundations-1969.pdf?raw=true) | 1969 |
 |Notes on constructive mathematics (Almqvist & Wiksell)| 1970 |
 |A theory of types (Preprint, Stockholm University)| 1971 |
 |[Hauptsatz for the intuitionistic theory of iterated inductive definitions](pdfs/Hauptsatz-for-the-intuitionistic-theory-of-iterated-inductive-definitions-1971.pdf?raw=true)| 1971 |
