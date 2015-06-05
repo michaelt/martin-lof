@@ -1,5 +1,4 @@
-The collected works of Per Martin-Löf
-=====================================
+## The collected works of Per Martin-Löf
 
 Please inform us of any inaccuracies or missing works.
 
