@@ -22,10 +22,10 @@ a nightmare to lay hold of.
 |[A note to Michael Dummett](pdfs/Note-to-Michael-Dummett-1976.pdf?raw=true)| 1976 |
 |[Exact tests, confidence regions and estimates](pdfs/Exact-tests-confidence-regions-and-estimates-1977.pdf?raw=true) | 1977 |
 |[Constructive mathematics and computer programming](pdfs/Constructive-mathematics-and-computer-programming-1979.pdf?raw=true) (Tech report)| 1979 |
-|[Intuitionistic Type Theory (Bibliopolis Book, notes by Giovanni Sambin of a series of lectures given in Padua, June 1980)](pdfs/Bibliopolis-Book-1984.pdf?raw=true) [(Re-typeset and searchable version)](pdfs/Bibliopolis-Book-retypeset-1984.pdf?raw=true)| 1984 |
 |[Constructive mathematics and computer programming](pdfs/Constructive-mathematics-and-computer-programming-1982.pdf?raw=true)| 1982 |
 |[On the Meanings of the Logical Constants and the Justification of Logical Laws](pdfs/Meanings-of-the-Logical-Constants-1983.pdf?raw=true)| 1983 |
 |[Notes on The Domain Interpretation of Type Theory](pdfs/Notes-on-The-Domain-Interpretation-of-Type-Theory-1983.pdf?raw=true)| 1983 |
+|[Intuitionistic Type Theory (Bibliopolis Book, notes by Giovanni Sambin of a series of lectures given in Padua, June 1980)](pdfs/Bibliopolis-Book-1984.pdf?raw=true) [(Re-typeset and searchable version)](pdfs/Bibliopolis-Book-retypeset-1984.pdf?raw=true)| 1984 |
 |[The logic of Judgements](pdfs/The-logic-of-judgements-1987.pdf?raw=true) | 1987 |
 |[Truth of a Proposition, Evidence of a Judgment, Validity of a Proof](pdfs/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf?raw=true)| 1987 |
 |Philosophical implications of type theory (Lectures given at the Facoltà di Lettere e Filosofia, Universitá degli Studi di Firenze, Florence, March 15th - May 15th, Privately circulated notes)| 1987 |
