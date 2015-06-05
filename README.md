@@ -1,10 +1,9 @@
-martin-lof
-==========
+The collected works of Per Martin-Löf
+=====================================
 
-Papers of Per Martin-Löf. Please inform me of others. They are generally
-a nightmare to lay hold of.
+Please inform us of any inaccuracies or missing works.
 
-| Paper | Date |
+| Title | Date |
 |:------|:----:|
 |[Definition of Random Sequences](pdfs/Definition-of-Random-Sequences-1966.pdf?raw=true)| 1966 |
 |[Algorithms and randomness](pdfs/Algorithms-and-randomness-1969.pdf?raw=true) | 1969 |
