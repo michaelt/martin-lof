@@ -19,7 +19,7 @@ a nightmare to lay hold of.
 |[An Intuitionistic Theory of Types: Predicative Part](pdfs/An-Intuitionistic-Theory-of-Types-Predicative-Part-1975.pdf?raw=true) (Proceedings of the logic colloquium Bristol, July 1973) | 1975 |
 |[About Models for Intuitionistic Type Theories and the notion of Definitional Equality](pdfs/About-Models-for-Intuitionistic-Type-Theories-and-the-notion-of-Definitional-Equality-1975.pdf?raw=true)| 1975 |
 |[Syntax and semantics of the language of primitive recursive functions](pdfs/Syntax-and-semantics-of-the-language-of-primitive-recursive-functions-1975.pdf?raw=true) (Preprint written with Peter Hancock)| 1975 |
-|[Reply to Sverdrups Polemical Article Tests without Power](pdfs/Reply-to-Sverdrups-Polemical-Article-Tests-without-Power-1975.pdf?raw=true)
+|[Reply to Sverdrups Polemical Article Tests without Power](pdfs/Reply-to-Sverdrups-Polemical-Article-Tests-without-Power-1975.pdf?raw=true)| 1975 |
 |[A note to Michael Dummett](pdfs/Note-to-Michael-Dummett-1976.pdf?raw=true)| 1976 |
 |[Exact tests, confidence regions and estimates](pdfs/Exact-tests-confidence-regions-and-estimates-1977.pdf?raw=true) | 1977 |
 |[Constructive mathematics and computer programming](pdfs/Constructive-mathematics-and-computer-programming-1979.pdf?raw=true) (Tech report)| 1979 |
