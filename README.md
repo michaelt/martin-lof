@@ -37,4 +37,4 @@ Please inform us of any inaccuracies or missing works.
 |Normalization by Evaluation and by the Method of Computability (Talk at JAIST, Kanazawa) | 2004 |
 |[One hundred years of Zermelo's axiom of choice. What was the problem with it?](pdfs/One-hundred-years-of-Zermelo-s-axiom-of-choice-what-was-the-problem-with-it-2009.pdf?raw=true)| 2009 |
 |[Verificationism Then and Now](pdfs/Martin-Lof-Verificationism-Then-and-Now-2013.pdf?raw=true)| 2013 |
-|[Making sense of normalization by evaluation](http://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/TypeTheoryAndFormalizationOfMathematics) (Talk given at a workshop on Type theory and formalization of mathematics in Gothenburg, December 11) | 2014 |
+|[Making sense of normalization by evaluation](http://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/TypeTheoryAndFormalizationOfMathematics) (Talk given at a workshop on Type theory and formalization of mathematics in Gothenburg, December 11th) | 2014 |
