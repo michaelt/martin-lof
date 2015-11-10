@@ -28,7 +28,8 @@ Please inform us of any inaccuracies or missing works.
 |[Truth of a Proposition, Evidence of a Judgment, Validity of a Proof](http://archive-pml.github.io/martin-lof/pdfs/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf)| 1987 |
 |Philosophical implications of type theory (Lectures given at the Facoltà di Lettere e Filosofia, Universitá degli Studi di Firenze, Florence, March 15th - May 15th, Privately circulated notes)| 1987 |
 |[Mathematics of Infinity](http://archive-pml.github.io/martin-lof/pdfs/Mathematics-of-Infinity.pdf)| 1990 |
-|[A path from logic to metaphysics](http://archive-pml.github.io/martin-lof/pdfs/A-path-from-logic-to-metaphysics-1990.pdf) | 1990 |
+|[A path from logic to metaphysics (typescript)](http://archive-pml.github.io/martin-lof/pdfs/A-path-from-logic-to-metaphysics-1990.pdf) | 1990 |
+|[A path from logic to metaphysics](http://archive-pml.github.io/martin-lof/pdfs/A-path-from-logic-to-metaphysics-1991.pdf) | 1991 |
 |[Substitution calculus](http://archive-pml.github.io/martin-lof/pdfs/Substitution-calculus-1992.pdf) (Notes from a lecture given in Göteborg)| 1992 |
 |[Analytic and Synthetic Judgements in Type Theory](http://archive-pml.github.io/martin-lof/pdfs/Martin-Lof-Analytic-and-Synthetic-Judgements-in-Type-Theory.pdf)| 1994 |
 |[Truth and Knowability: On the Principles C and K of Michael Dummett](http://archive-pml.github.io/martin-lof/pdfs/Truth-and-Knowability-On-the-Principles-C-and-K-of-Michael-Dummett-1998.pdf)| 1998 |
