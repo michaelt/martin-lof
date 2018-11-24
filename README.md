@@ -25,6 +25,7 @@ Please inform us of any inaccuracies or missing works.
 |[Notes on The Domain Interpretation of Type Theory](http://archive-pml.github.io/martin-lof/pdfs/Notes-on-The-Domain-Interpretation-of-Type-Theory-1983.pdf)| 1983 |
 |[Intuitionistic Type Theory](http://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-1984.pdf) (Bibliopolis Book, notes by Giovanni Sambin of a series of lectures given in Padua, June 1980) [(Re-typeset and searchable version)](http://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf)| 1984 |
 |[The logic of Judgements](http://archive-pml.github.io/martin-lof/pdfs/The-logic-of-judgements-1987.pdf) | 1987 |
+|[The logic of Judgements (typeset)](http://archive-pml.github.io/martin-lof/pdfs/The-logic-of-judgements-typeset-1987.pdf) | 1987 |
 |[Truth of a Proposition, Evidence of a Judgment, Validity of a Proof](http://archive-pml.github.io/martin-lof/pdfs/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf)| 1987 |
 |Philosophical implications of type theory (Lectures given at the Facoltà di Lettere e Filosofia, Universitá degli Studi di Firenze, Florence, March 15th - May 15th, Privately circulated notes)| 1987 |
 |[Mathematics of Infinity](http://archive-pml.github.io/martin-lof/pdfs/Mathematics-of-Infinity.pdf)| 1990 |
