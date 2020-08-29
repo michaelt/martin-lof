@@ -20,6 +20,7 @@ Please inform us of any inaccuracies or missing works.
 |[A note to Michael Dummett](http://archive-pml.github.io/martin-lof/pdfs/Note-to-Michael-Dummett-1976.pdf)| 1976 |
 |[Exact tests, confidence regions and estimates](http://archive-pml.github.io/martin-lof/pdfs/Exact-tests-confidence-regions-and-estimates-1977.pdf) | 1977 |
 |[Constructive mathematics and computer programming](http://archive-pml.github.io/martin-lof/pdfs/Constructive-mathematics-and-computer-programming-1979.pdf) (Tech report)| 1979 |
+|[Constructive mathematics and computer programming (Version 2)](http://archive-pml.github.io/martin-lof/pdfs/MartinLöf1979.pdf) (Tech report)| 1979 |
 |[Constructive mathematics and computer programming](http://archive-pml.github.io/martin-lof/pdfs/Constructive-mathematics-and-computer-programming-1982.pdf)| 1982 |
 |[On the Meanings of the Logical Constants and the Justification of Logical Laws](http://archive-pml.github.io/martin-lof/pdfs/Meanings-of-the-Logical-Constants-1983.pdf)| 1983 |
 |[Notes on The Domain Interpretation of Type Theory](http://archive-pml.github.io/martin-lof/pdfs/Notes-on-The-Domain-Interpretation-of-Type-Theory-1983.pdf)| 1983 |
