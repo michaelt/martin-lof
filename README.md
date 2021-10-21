@@ -7,7 +7,7 @@ Please inform us of any inaccuracies or missing works.
 |[Definition of Random Sequences](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Definition-of-Random-Sequences-1966.pdf)| 1966 |
 |[Algorithms and randomness](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Algorithms-and-randomness-1969.pdf) | 1969 |
 |Notes on constructive mathematics (Almqvist & Wiksell)| 1970 |
-|A theory of types (Preprint, Stockholm University)| 1971 |
+|[A theory of types (Preprint, Stockholm University)](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/martin-loef1971%20-%20A%20Theory%20of%20Types.pdf)| 1971 |
 |[Hauptsatz for the intuitionistic theory of iterated inductive definitions](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Hauptsatz-for-the-intuitionistic-theory-of-iterated-inductive-definitions-1971.pdf)| 1971 |
 |[Complexity Oscillations in Infinite Binary Sequences](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Complexity-Oscillations-in-Infinite-Binary-Sequences-1971.pdf) | 1971 |
 |[Infinite terms and a system of natural deduction](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Infinite-terms-and-a-system-of-natural-deduction-1972.pdf)| 1972 |
