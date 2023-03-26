@@ -36,7 +36,6 @@ Please inform us of any inaccuracies or missing works.
 |[Philosophical aspects of intuitionistic type theory*](https://pml.flu.cas.cz/uploads/PML-LeidenLectures93.pdf) (Series of talks given at Leiden, 23 September – 16 December 1993) | 1993 |
 |[Analytic and Synthetic Judgements in Type Theory](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Martin-Lof-Analytic-and-Synthetic-Judgements-in-Type-Theory.pdf)| 1994 |
 |[Truth and Knowability: On the Principles C and K of Michael Dummett](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Truth-and-Knowability-On-the-Principles-C-and-K-of-Michael-Dummett-1998.pdf)| 1998 |
-
 |[The sense/reference distinction in constructive semantics*](https://pml.flu.cas.cz/uploads/PML-Leiden25Aug01_BSL.pdf) (The Bulletin of Symbolic Logic, 27, 501-513, 2021) | 2001 |
 |[Husserl's correlation between formal logic and formal ontology*](https://pml.flu.cas.cz/uploads/PML-Bern17Jan02.pdf) (Talks given at Bern, 17 January) | 2002 |
 |[Are the objects of propositional attitudes propositions in the sense of propositional and predicate logic?](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Are-the-objects-of-propositional-attitudes-propositions-in-the-sense-of-propositional-and-predicate-logic-2003.pdf) | 2003 |
