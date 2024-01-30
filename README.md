@@ -33,11 +33,29 @@ Please inform us of any inaccuracies or missing works.
 |[A path from logic to metaphysics (typescript)](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/A-path-from-logic-to-metaphysics-1990-typescript.pdf) | 1990 |
 |[A path from logic to metaphysics](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/A-path-from-logic-to-metaphysics-1991.pdf) | 1991 |
 |[Substitution calculus](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Substitution-calculus-1992.pdf) (Notes from a lecture given in Göteborg)| 1992 |
+|[Philosophical aspects of intuitionistic type theory*](https://pml.flu.cas.cz/uploads/PML-LeidenLectures93.pdf) (Series of talks given at Leiden, 23 September – 16 December 1993) | 1993 |
 |[Analytic and Synthetic Judgements in Type Theory](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Martin-Lof-Analytic-and-Synthetic-Judgements-in-Type-Theory.pdf)| 1994 |
 |[Truth and Knowability: On the Principles C and K of Michael Dummett](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Truth-and-Knowability-On-the-Principles-C-and-K-of-Michael-Dummett-1998.pdf)| 1998 |
-|[Hilbert Brouwer Controversy Resolved?](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Hilbert-Brouwer-Controversy-Resolved-2008.pdf)| 2008 |
+|[The sense/reference distinction in constructive semantics*](https://pml.flu.cas.cz/uploads/PML-Leiden25Aug01_BSL.pdf) (The Bulletin of Symbolic Logic, 27, 501-513, 2021) | 2001 |
+|[Husserl's correlation between formal logic and formal ontology*](https://pml.flu.cas.cz/uploads/PML-Bern17Jan02.pdf) (Talks given at Bern, 17 January) | 2002 |
 |[Are the objects of propositional attitudes propositions in the sense of propositional and predicate logic?](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Are-the-objects-of-propositional-attitudes-propositions-in-the-sense-of-propositional-and-predicate-logic-2003.pdf) | 2003 |
+|[Are the objects of propositional attitudes propositions in the sense of propositional and predicate logic?*](https://pml.flu.cas.cz/uploads/PML-Geneva19Dec03.pdf) (Talks given at Geneva, 19 December) | 2003 |
+|[Sets, types and categories*](https://pml.flu.cas.cz/uploads/PML-Leiden06Feb04.pdf) (Talks given at Leiden, 6 February) | 2004 |
 |Normalization by Evaluation and by the Method of Computability (Talk at JAIST, Kanazawa) | 2004 |
+|[Hilbert Brouwer Controversy Resolved?](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Hilbert-Brouwer-Controversy-Resolved-2008.pdf)| 2008 |
 |[One hundred years of Zermelo's axiom of choice. What was the problem with it?](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/One-hundred-years-of-Zermelo-s-axiom-of-choice-what-was-the-problem-with-it-2009.pdf)| 2009 |
+|[How did 'judgement' come to be a term of logic?*](https://pml.flu.cas.cz/uploads/PML-Paris14Oct11.pdf) (Talks given at Paris, 14 October) | 2011 |
 |[Verificationism Then and Now](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Martin-Lof-Verificationism-Then-and-Now-2013.pdf)| 2013 |
+|[Truth of empirical propositions*](https://pml.flu.cas.cz/uploads/PML-Leiden04Feb14.pdf) (Talks given at Leiden, 4 February) | 2014 |
 |[Making sense of normalization by evaluation](http://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/TypeTheoryAndFormalizationOfMathematics) (Talk given at a workshop on Type theory and formalization of mathematics in Gothenburg, December 11th) | 2014 |
+|[Is logic part of normative ethics?*](https://pml.flu.cas.cz/uploads/PML-Paris15May15.pdf) (Talks given at Paris, 15 May) | 2015 |
+|[The two interpretations of natural deduction: how do they fit together?*](https://pml.flu.cas.cz/uploads/PML-Leiden04Feb14.pdf) (Talks given at Tübingen, 28 November) | 2015 |
+|[Judgement and inference*](https://pml.flu.cas.cz/uploads/PML-Marseille01Jun16.pdf) (Talks given at Marseille, 1 June) | 2016 |
+|[Assertion and request*](https://pml.flu.cas.cz/uploads/PML-Stockholm14Aug17.pdf) (Talks given at Stockholm, 14 August) | 2017 |
+|[Assertion and request*](https://pml.flu.cas.cz/uploads/PML-Oslo29Aug17.pdf) (Talks given at Oslo, 29 August) | 2017 |
+|[Weyl's attempted mediation between intuitionism and formalism*](https://pml.flu.cas.cz/uploads/PML-Leeds12Sep18.pdf) (Talks given at Leeds, 12 September) | 2018 |
+|[Epistemic assumptions: are they assumed to be backwards vindicated or forwards vindicable?*](https://pml.flu.cas.cz/uploads/PML-Leiden06Sep19.pdf) (Leiden, 6 September) | 2019 |
+|[Logic and ethics*](https://pml.flu.cas.cz/uploads/PML-Hejnice27Jun19_LogicaYearbook.pdf) (Logica Yearbook 2019, I. Sedlár and M. Blicha (eds.). London: College Publications, 2020) | 2020 |
+|[Correctness of assertion and validity of inference*](https://pml.flu.cas.cz/uploads/PML-Stockholm26Oct22.pdf) (Stockholm, 26 October) | 2022 |
+
+*Originally published at the [Per Martin-Löf: Transcriptions](https://pml.flu.cas.cz/) website
